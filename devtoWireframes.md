@@ -117,3 +117,13 @@ Uplevel your JavaScript skills. Explore Miro's collection of 20+ example apps bu
 **[Explore the collection→](https://github.com/miroapp/app-examples?utm_source=devto_app_examples)**
 
 ---
+
+# [](#openai_miro)[Participate in 48 hrs of innovation at the Miro </> Junction Virtual Hackathon!](https://developers.miro.com/page/junction-miro-hackathon?utm_source=devto_junction)
+
+[![](https://github.com/bishopwm/jsWorldTest/assets/10800544/bc967fe1-b507-4a9b-a25b-0175bd475d42)](https://dev.to/advertising-interest?bb=youradhere-text)
+
+Join us January 19-21 for your chance to hack on top of the Miro Developer Platform and win prizes at the virtual Miro </> Junction Hackathon.
+
+**[Save your spot→](https://developers.miro.com/page/junction-miro-hackathon?utm_source=devto_junction)**
+
+---
